@@ -1,0 +1,26 @@
+.cardIds {
+  width: 90%;
+  margin: 10px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-shadow: 3px 9px 15px 4px rgba(202, 207, 210, 0.55);
+}
+
+.iconIds {
+  height: 40px;
+  width: 40px;
+  background-color: #4DA257;
+  color: white;
+  display: flex;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+}
+
+.description {
+  font-size: 17px;
+  font-weight: bold;
+}

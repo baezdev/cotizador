@@ -1,0 +1,45 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.subcontent{
+    width: 95%;
+    height: 100vh;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.iconImgs{
+    height: 100px;
+    width: 100px;
+    margin-top: 40px;
+}
+
+.pricesContent{
+    margin: 20px;
+}
+.labelTipoCambio{
+    margin-top: 10px;
+    font-size: 25px;
+    color:  #4DA257;
+    font-weight: bolder;
+
+}
+
+.pricesSub{
+    margin: 10px;
+    font-size: 12px;
+}
+
+.llenaDatos{
+    font-weight: bolder;
+    font-size: 15px;
+    margin-top: 30px;
+}

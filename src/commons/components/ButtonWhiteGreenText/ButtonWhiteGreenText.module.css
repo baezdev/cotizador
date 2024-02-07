@@ -1,0 +1,25 @@
+.btn {
+  /*background-color: #F1F2F6;*/
+  background-color: #fff;
+  width: max-content;
+  /*padding: 20px 70px;*/
+  border: none;
+  color: #4DA257;
+  font-size: 2.3rem;
+  font-weight: bolder;
+  line-height: 3rem;
+  margin-bottom: 15px;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.imageIcon {
+  width: 12px;
+  margin: 0 10px;
+}
+
+.upperCase {
+  text-transform: uppercase;
+}

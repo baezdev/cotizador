@@ -1,0 +1,62 @@
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.subcontent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.header{
+    width: 100%;
+    height: auto;
+    background-color: #4DA257;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: white;
+    padding: 1rem;
+}
+.subtitulo{
+    font-size: 2rem;
+    font-weight: lighter;
+}
+
+.form {
+    width: 100%;
+}
+
+.form_title_container {
+    width: 90%;
+    margin: 2rem auto;
+}
+
+.form_title {
+    text-align: left;
+    font-size: 1.8rem;
+    color: gray;
+}
+
+.container_form_inputs {
+    /* width: 100%; */
+    width: 90%;
+    margin: 0 auto;
+}
+
+.container_buttons {
+    width: 100%;
+}
+
+.button {
+    /*width: 100%;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}

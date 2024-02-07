@@ -1,0 +1,82 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  padding: 2.5rem;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+}
+
+.subcontent {
+  /* width: 95%;
+  height: 100vh;
+  margin-top: 10px;
+  margin-bottom: 10px; */
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /*height: 100%;*/
+}
+
+.container_img {
+  /* border: 1px solid red; */
+  width: 19rem;
+  height: 19rem;
+}
+
+.iconImgs {
+  /* height: 100px;
+  width: 100px;
+  margin-top: 40px; */
+  max-width: 100%;
+  display: block;
+}
+
+.labelTitulo {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.labelSubtitulo {
+  font-size: 1.6rem;
+  color: #626567;
+  text-align: center;
+  line-height: 1.9rem;
+}
+
+.labelTipoCambio {
+  font-size: 2.2rem;
+  color: #4DA257;
+  font-weight: bolder;
+  margin: 0.5rem 0;
+}
+
+.labelText {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1.15rem;
+  line-height: 1.9rem;
+}
+
+.container_steps {
+}
+
+.container_buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+
+
+
+
+
